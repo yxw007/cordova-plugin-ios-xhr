@@ -3,7 +3,7 @@
   "version": "1.2.5",
   "description": "Cordova iOS 6+ File XHR Plugin",
   "cordova": {
-    "id": "@globules-io/cordova-plugin-ios-xhr",
+    "id": "@yxw007/cordova-plugin-ios-xhr",
     "platforms": [
       "ios"
     ]
